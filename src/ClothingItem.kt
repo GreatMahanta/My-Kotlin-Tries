@@ -1,0 +1,1 @@
+class ClothingItem(var type: String, var size: String,var price: Double)
